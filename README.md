@@ -1,5 +1,6 @@
 ### **Project Structure**
 
+```
 ├── bot.py        # Contains the Telegram bot logic
 └── app.py        # Contains both Flask application and runs the Telegram bot
 ```
