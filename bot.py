@@ -15,6 +15,6 @@ def start(message):
 def run_bot():
     bot.polling(none_stop=True)
 
-# Only run the bot if this file is executed directly
+# Only run the bot if this file is executed directly (for testing purposes)
 if __name__ == "__main__":
     run_bot()
